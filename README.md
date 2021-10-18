@@ -1,11 +1,8 @@
-# Dell-Inspiron-14-3459-EFI
-Hackintosh Mojave w/ Olarila
+### Created by Septian Triiriawan Parapak
+### 13-June-2020 3.10AM
+### Dell Inspiron 14 3459
 
-## Created by Septian Triiriawan Parapak
-## 13-June-2020 3.10AM
-## Dell Inspiron 14 3459
-
-## Specifications
+### Specifications
 - CPU : Intel Core i5 6200U Skylake U - Mobile
 - GPU : Intel HD 520 ( Integrated )
 - RAM : 2 x 4GB DDR3L
@@ -15,7 +12,7 @@ Hackintosh Mojave w/ Olarila
 - Monitor : 1366 x 768 (60hz)
 - OS : macOS Mojave 10.14.6 ( Olarila )
 
-## What's working ?
+### What's working ?
 
 - Start, Sleep, Shutdown
 - Audio ( Output, Input )
@@ -30,7 +27,7 @@ Hackintosh Mojave w/ Olarila
 - Volume Keys Fn ( F1, F2, F3 )
 - Brightness Keys Fn ( S , B )
 
-## What isn't working ?
+### What isn't working ?
 
 - Bluetooth
 - Dedicated GPU ( Radeon R5 M315 )
