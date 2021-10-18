@@ -45,7 +45,7 @@ monitor's refresh rate to 48 and switch back to 60
 - Mount EFI Partition
 ```sudo mkdir /Volumes/EFI```
 ```sudo mount -t msdos /dev/disk0s1 /Volumes/EFI```
-( If you not sure about disk0s1, use #diskutil list )
+( If you not sure about disk0s1, use ```diskutil list``` )
 
 - Repair Kext Permission
 Run Kext Utility everytime S/L/E has been modified
